@@ -1,0 +1,7 @@
+# Never upload local secrets — the key lives only in the GROQ_API_KEY env var
+secrets.js
+
+# Dev-only / noise
+node_modules
+.DS_Store
+*.log
